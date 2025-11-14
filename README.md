@@ -4,7 +4,7 @@
 
 A powerful web application built with Streamlit that provides in-depth analysis, strategic insights, and AI-powered recommendations for any YouTube channel. This tool is designed to help content creators understand their performance, discover what works, and plan their next steps for growth.
 
-**[➡️ Live Demo Link Here]** <!-- Replace with your actual Streamlit deployment link -->
+**[➡️ Live Demo Link Here](https://bestoism-youtubechannelanalyzer.streamlit.app/)** <!-- Replace with your actual Streamlit deployment link -->
 
 ---
 
